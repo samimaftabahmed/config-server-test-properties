@@ -4,6 +4,6 @@ my:
     values: One, Two, Three
 
 db:
-  connection: connection-string-service-2
+  connection: connection-string-service-2 kiba kibi
   host: 127.0.0.1
   port: 1200
