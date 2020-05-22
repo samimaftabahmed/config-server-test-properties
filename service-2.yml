@@ -10,3 +10,7 @@ db:
 
 server:
   port: 8081
+
+management:
+  endpoint: refresh: enabled: true
+  health: refresh: enabled: true
