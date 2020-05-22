@@ -12,5 +12,9 @@ server:
   port: 8080
 
 management:
-  endpoint: refresh: enabled: true
-  health: refresh: enabled: true
+  endpoint: 
+    refresh: 
+      enabled: true
+  health: 
+    refresh: 
+      enabled: true
